@@ -1,0 +1,14 @@
+*.egg-info
+*.pot
+*.py[co]
+.tox/
+__pycache__
+MANIFEST
+dist/
+docs/_build/
+docs/locale/
+node_modules/
+oauth/tests/coverage_html/
+oauth/tests/.coverage*
+build/
+oauth/tests/report/

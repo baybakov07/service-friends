@@ -1,0 +1,6 @@
+pytest-django
+Django
+django-rest-swagger
+djangorestframework
+drf-spectacular
+djangorestframework-simplejwt
